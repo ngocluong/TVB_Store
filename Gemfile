@@ -10,7 +10,7 @@ gem 'sass-rails', '~> 4.0.3'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 gem 'spree'
-gem 'spree_blue_theme', :git => 'https://github.com/spree/spree_blue_theme.git'
+gem 'spree_fancy', :github => 'spree/spree_fancy', :branch => '2-3-stable'
 gem 'spree_auth_devise', github: 'spree/spree_auth_devise', branch: '2-3-stable'
 # Use CoffeeScript for .js.coffee assets and views
 gem 'coffee-rails', '~> 4.0.0'
